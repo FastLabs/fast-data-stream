@@ -1,36 +1,15 @@
 # fast-data-stream
 
-FIXME: description
+A collection utilities that helps moving data around from one place to another. 
 
-## Installation
 
-Download from http://example.com/FIXME.
+These should ease the development of data pipes
+
+Source channels are piped into transformation channels and then into sink channels
+
 
 ## Usage
 
 FIXME: explanation
 
     $ java -jar fast-data-stream-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2018 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
